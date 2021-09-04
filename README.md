@@ -91,9 +91,9 @@ Contributions are what make the open source community such an amazing place to l
 <!-- CONTACT -->
 ## Contact
 
-Mohammed Zaid Khan - [LinkedIn - Zaid Khan](https://www.linkedin.com/in/zaid-khan-a342231b5/)
-Anirudh Eyyani - [LinkedIn - Anirudh Eyyani](https://www.linkedin.com/in/anirudh-eyyani-3036671ba/)
-Hemang Ranjan - [LinkedIn- Hemang Ranjan](https://www.linkedin.com/in/hemang-ranjan-789384134/)
+Mohammed Zaid Khan - [LinkedIn - Zaid Khan](https://www.linkedin.com/in/zaid-khan-a342231b5/)<br>
+Anirudh Eyyani - [LinkedIn - Anirudh Eyyani](https://www.linkedin.com/in/anirudh-eyyani-3036671ba/)<br>
+Hemang Ranjan - [LinkedIn- Hemang Ranjan](https://www.linkedin.com/in/hemang-ranjan-789384134/)<br>
 
 Project Link: 
 
