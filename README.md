@@ -6,11 +6,11 @@
     <a href="https://github.com/ZaidKhan2002/DEV.MAPS"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://zaidkhan2002.github.io/DEV.MAPS/">View Demo</a>
+    <a href="https://anirudheyyani.github.io/DEV.MAPS/">View Demo</a>
     ·
-    <a href="https://github.com/ZaidKhan2002/DEV.MAPS/issues">Report Bug</a>
+    <a href="https://github.com/AnirudhEyyani/DEV.MAPS/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ZaidKhan2002/DEV.MAPS/issues">Request Feature</a>
+    <a href="https://github.com/AnirudhEyyani/DEV.MAPS/issues">Request Feature</a>
   </p>
 </p>
 
